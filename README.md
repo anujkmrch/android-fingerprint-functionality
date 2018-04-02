@@ -23,4 +23,6 @@ Thanks for VolleyMultipartReqeuest library which helps me to that.
 
 Please go through with the licence for using this project in your academic project.
 
+Please edit and use it in your project.
+
 Enjoy.
